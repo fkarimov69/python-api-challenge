@@ -1,1 +1,1 @@
-api_key="6528a7e3abed90205aacfc33db50632e"
+api_key = "6528a7e3abed90205aacfc33db50632e"
